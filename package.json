@@ -1,0 +1,29 @@
+{
+  "name": "geopagos-challenge",
+  "version": "1.0.0",
+  "description": "geopagos challenge",
+  "main": "index.js",
+  "scripts": {
+    "test": "testweb"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/gergsandoval/geopagos-challenge.git"
+  },
+  "keywords": [
+    "cypress",
+    "javascript",
+    "web-automation"
+  ],
+  "author": "german sandoval",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/gergsandoval/geopagos-challenge/issues"
+  },
+  "homepage": "https://github.com/gergsandoval/geopagos-challenge#readme",
+  "devDependencies": {
+    "cypress": "^12.7.0",
+    "install": "^0.13.0",
+    "npm": "^9.5.1"
+  }
+}
